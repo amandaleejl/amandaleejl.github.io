@@ -3,8 +3,6 @@ logo: "/images/amanda_lee.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Amanda is a data analyst with a strong proficiency in Python, SQL and Tableau. The years of studies in NUS has allowed her to build a strong and solid foundation of knowledge in science and research. She is looking for a role as a data analystbringing actionable and innovative solutions to your organisation.
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/amandaleejl/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
