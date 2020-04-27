@@ -1,8 +1,4 @@
----
-## Portfolio
----
 ## Experience
-
 ---
 
 ### Novartis Singapore Pte Ltd - Marketing Intern
