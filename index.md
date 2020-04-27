@@ -33,11 +33,11 @@ Crucial in the planning of events to support the sales and marketing of pharmace
 
 ## Education
 ---
-### National University of Singapore —  Bachelor of Science (Life Sciences)
-#### AUG 2016 - MAY 2019
+#### National University of Singapore —  Bachelor of Science (Life Sciences)
+AUG 2016 - MAY 2019
 
-### General Assembly, Singapore — Data Science Immersive Course
-#### JAN 2020 - APR 2019
+#### General Assembly, Singapore — Data Science Immersive Course
+JAN 2020 - APR 2019
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
