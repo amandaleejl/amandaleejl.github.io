@@ -15,7 +15,7 @@ Crucial in the planning of events to support the sales and marketing of pharmace
 
 - [Airbnb Price Prediction - Capstone Project](https://github.com/amandaleejl/projects/tree/master/airbnb_price_capstone)
   + Predict potential airbnb listing prices in Singapore with high accuracy.
-  + Used XGBoost to predict the housing price with a good mse and r2 score.
+  + Used XGBoost to predict the housing price with a good MSE and R2 score.
   + Picked out factors that contribute significantly to the listing prices that will be useful for further marketing strategies.
 - [Reddit Horror Stories Classification](https://github.com/amandaleejl/projects/tree/master/nlp_web_apis_classification)
   + Scraped two subreddits NoSleep (fictional horror stories) and TheTruthIsHere (true personal encounters with the unknown) through a webscrapper. 
