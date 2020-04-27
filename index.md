@@ -9,7 +9,8 @@ Crucial in the planning of events to support the sales and marketing of pharmace
 
 ---
 
-### Projects
+## Projects
+---
 
 - [Airbnb Price Prediction - Capstone Project](https://github.com/amandaleejl/projects/tree/master/airbnb_price_capstone)
   + Predict potential airbnb listing prices in Singapore with high accuracy.
@@ -30,8 +31,8 @@ Crucial in the planning of events to support the sales and marketing of pharmace
 
 ---
 
-### Education
-
+## Education
+---
 ### National University of Singapore —  Bachelor of Science (Life Sciences)
 #### AUG 2016 - MAY 2019
 
